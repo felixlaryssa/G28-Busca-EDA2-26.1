@@ -129,23 +129,8 @@ pip install -r requirements.txt
 
 ### Como executar o projeto
 
-1. Gerar base de dados(via API):
+**Executar o sistema**
 
-```
-python3 gerar_base.py
-```
-
-Isso gera: livros:json
-
-2. Limpar os dados
-
-```
-python3 limpar_base.py
-```
-
-Isso gera: livros_limpos.json
-
-3. Executar o sistema
 ```
 python3 main.py
 ```
