@@ -167,3 +167,6 @@ G28-Busca-EDA2-26.1/
 ├── utils.py                # Funções auxiliares
 ├── requirements.txt        # Dependências
 └── README.md
+```
+---
+## Gravação
